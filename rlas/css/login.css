@@ -1,0 +1,29 @@
+
+.login{
+	margin: 140px 200px 0 200px;
+	position: relative;
+	background-color: rgba(255,255,255,0.5);
+	padding: 10px;
+	border-radius: 5px;
+	width:auto;
+	height:250px;
+}
+.login .logo{
+	position: absolute;
+	font-size: 4em;
+	top: -80px;
+	left: -5px;
+	color: #06066a;
+	font-weight: bold;
+}
+.login .user-icon-container{
+	width: 150px;
+	height: 150px;
+	background-color: #ba240b;
+	overflow: hidden;
+	border-radius: 100%;
+	margin: -100px auto 0 auto;
+	text-align: center;
+}
+.login .user-icon-container > i{ color: #fff; }
+
